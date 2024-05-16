@@ -31,9 +31,9 @@ case $cmd in
   # Create container
 	docker volume create taskdata
   # Start the container
-	docker run --name jrvs-psql --env POSTGRES_USERNAME="$db_username" \
+	docker run --name jrvs-psql --env POSTGRES_USER="$db_username" \
 	 --env POSTGRES_PASSWORD="$db_password" \
-	 -d -v jrvs-psql:/var/lib/postgresql/data -p 5432:5432 postgres:9.6-alpine
+	 -d -v taskdata:/var/lib/postgresql/data -p 5432:5432 postgres:9.6-alpine
   # Exit status of the last command executed
 	exit $?
 	;;
