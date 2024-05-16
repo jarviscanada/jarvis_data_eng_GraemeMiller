@@ -27,6 +27,7 @@ psql -h localhost -U postgres -d host_agent -f sql/ddl.sql
 Using docker containers allowed the project to have easy access to the PostgreSQL and create databases. We then used bash scripts to setup and apply changes to the tables for the database. 
 
 ## Architecture
+![clusterDiagram](https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller/assets/61242097/6342d671-296f-419b-afd9-abacfea3e0a2)
 
 ## Database Modeling
 ### Host Info
