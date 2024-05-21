@@ -15,7 +15,7 @@ My name is Graeme Miller, and I have an academic background in Computer Science,
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/masterhttps://github.com/jarviscanada/jarvis_data_eng_GraemeMiller/tree/feature/profile/linux_sql)]: Automates the management of system usage data for a Linux server cluster in the Jarvis Linux Cluster Administration (LCA) team using Docker, PostgreSQL, and bash scripts. This project simplifies database operations, enables the creation of tables to store hardware specifications and usage data, and utilizes crontab for automated data collection. Technologies used include Docker, PostgreSQL, and bash scripting for database setup and maintenance.
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]:
       
