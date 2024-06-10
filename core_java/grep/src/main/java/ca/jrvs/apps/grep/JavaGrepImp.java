@@ -25,7 +25,7 @@ public class JavaGrepImp implements JavaGrep {
 	private String outFile;
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		if(args.length != 3) {
 			throw new IllegalArgumentException("USAGE: JavaGrep regex rootPath outFile");
 		}
@@ -38,6 +38,7 @@ public class JavaGrepImp implements JavaGrep {
 		javaGrepImp.setOutFile(args[2]);
 		
 		try {
+
 			javaGrepImp.process();
 		} catch (Exception ex){
 			javaGrepImp.logger.error("Error: Unable to process", ex);
@@ -46,11 +47,13 @@ public class JavaGrepImp implements JavaGrep {
 
 	@Override
 	public void process() throws IOException {
-		// TODO Auto-generated method stub
+		logger.debug("Regex set to {}", getRegex());
+		logger.debug("Outfile set to {}", getOutFile());
+		logger.debug("Rootpath set to {}", getRootPath());
 		ArrayList<String> matchedLines = new ArrayList<String>();
 		List<File> listedFiles = new ArrayList<File>();
 		List<String> lines = new ArrayList<String>();
-		listedFiles = listFiles(rootPath);
+		listedFiles = listFiles(getRootPath());
 		for(File file : listedFiles) {
 			lines = readLines(file);
 			for(String line : lines) {
@@ -101,7 +104,7 @@ public class JavaGrepImp implements JavaGrep {
 
 	@Override
 	public boolean containsPattern(String line) {
-		Pattern pattern = Pattern.compile(regex, Pattern.CASE_INSENSITIVE);
+		Pattern pattern = Pattern.compile(getRegex(), Pattern.CASE_INSENSITIVE);
 	    Matcher matcher = pattern.matcher(line);
 	    boolean check = matcher.find();
 		if(check) {
@@ -114,7 +117,7 @@ public class JavaGrepImp implements JavaGrep {
 	@Override
 	public void writeToFile(List<String> lines) throws IOException {
 		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(outFile));
+			BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile()));
 			for(String line : lines) {
 				writer.write(line);
 				writer.newLine();
