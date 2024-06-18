@@ -116,8 +116,14 @@ public class JavaGrepImp implements JavaGrep {
 
 	@Override
 	public void writeToFile(List<String> lines) throws IOException {
+		File outFile = new File(getOutFile());
+		File parentDir = outFile.getParentFile();
+
+		if (parentDir != null && !parentDir.exists()) {
+			throw new IOException("Parent directory does not exist: " + parentDir.getAbsolutePath());
+		}
 		try {
-			BufferedWriter writer = new BufferedWriter(new FileWriter(getOutFile()));
+			BufferedWriter writer = new BufferedWriter(new FileWriter(outFile));
 			for(String line : lines) {
 				writer.write(line);
 				writer.newLine();
