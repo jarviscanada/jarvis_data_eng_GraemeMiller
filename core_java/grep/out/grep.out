@@ -1,0 +1,4 @@
+            throw new IllegalArgumentException("USAGE: JavaGrep regex rootPath outFile");
+                throw new IllegalArgumentException("Root directory does not exist: " + rootDir);
+	 * @throws IllegalArgumentException if a given input is not a file
+			throw new IllegalArgumentException("USAGE: JavaGrep regex rootPath outFile");
