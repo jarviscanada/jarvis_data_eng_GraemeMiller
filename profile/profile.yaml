@@ -1,7 +1,7 @@
 # Preferred name (Characters only)
 name: "Graeme Miller"
 # Your GitHub repo root URL
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
@@ -68,7 +68,7 @@ professional_experience:
     company: "Jarvis"
     duration: "May 2024-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Worked on a series of Software developer projects. Developing key skills in becoming a better professional in the industry."
   - title: "Full-stack Developer Intern"
     company: "Andie"
     duration: "May 2022-Apr 2023"
@@ -82,7 +82,7 @@ education:
     department: "Lassonde School of Engineering"
     # optional
     awards_achievements:
-#    
+#
 #  - school_name: "XYZ university"
 #    duration: "2016-2018"
 #    degree: "Master of Engineering"

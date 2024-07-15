@@ -8,7 +8,7 @@
       "school_name": "York university"
     }
   ],
-  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_demo",
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller",
   "highlighted_projects": [
     {
       "description": "Designed and created a website hub for a yoga studio to centralize information about their online classes and social media, significantly improving the connection between students and instructors, and streamlining the registration process for future classes. The website includes small animations and is designed to be responsive, functioning well on both desktop computers and mobile devices. It features a single home page that links to four additional information pages and social media channels.",
@@ -52,7 +52,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "description": "Worked on a series of Software developer projects. Developing key skills in becoming a better professional in the industry.",
       "duration": "May 2024-present",
       "title": "Software Developer:"
     },
