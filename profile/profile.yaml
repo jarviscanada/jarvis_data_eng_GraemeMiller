@@ -50,59 +50,59 @@ jarvis_projects:
 # Feel free to add more projects
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: "Yoga Teacher's Website"
     #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    git_url: "https://github.com/gvmiller/YogaWithDeb"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
+    description: Designed and created a website hub for a yoga studio to centralize information about their online classes and social media, significantly improving the connection between students and instructors, and streamlining the registration process for future classes. The website includes small animations and is designed to be responsive, functioning well on both desktop computers and mobile devices. It features a single home page that links to four additional information pages and social media channels.
+  - name: "Software Engineering Testing Project"
     git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Tested the API tokens using Java code for user access on a webpage application. Also compared this understanding of successful security on the Yuride program using Selenium to walk through and test the login process of the program.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Software Developer"
+  - title: "Software Developer:"
     company: "Jarvis"
-    duration: "2020-present"
+    duration: "May 2024-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+  - title: "Full-stack Developer Intern"
+    company: "Andie"
+    duration: "May 2022-Apr 2023"
+    description: "Gained experience with Mixpanel analytics, Graph CMS, SQL querying, Python, and React.js. Built webpage analytics for the company's website, providing valuable statistics on webpage activity and enabling the company to adapt their website to better link clients to their product. Developed a dashboard for the marketing team to streamline the creation of new marketing pages through a form. Collaborated with a team to develop other company webpages, improving my design skills and gaining experience in delegating work within a group. Worked on a backend scraping function to read a comma-separated list, apply filtering, and accurately input data into the company database, utilizing various basic functions for data management. Coordinated the integration of backend functions with the company's frontend CRM page, focusing on establishing the initial functionality of the CRM to provide a foundational understanding of its management capabilities for the company."
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
-    department: "Electrical and Computer Engineering"
+  - school_name: "York university"
+    duration: "2018-2023"
+    degree: "Bachelor of Science in Computer Science"
+    department: "Lassonde School of Engineering"
     # optional
-    awards_achievements: 
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
-    awards_achievements: 
+    awards_achievements:
+#      - "Scholarship"
+#      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
+#      - "GPA: 3.8/4.0"
+#  - school_name: "XYZ university"
+#    duration: "2016-2018"
+#    degree: "Master of Engineering"
+#    department: "Electrical and Computer Engineering"
+#    awards_achievements:
 
 #Optional section
 others:
-    #category
-  - title: "Certificates"
-    #list of items
-    bullets:
-      - "Udacity Machine Learning (2019)"
-  - title: "Awards"
-    bullets:
-      - "Winner"
+#    #category
   - title: "Activities/Hobbies"
     bullets:
-      - "Basketball player"
-      - "Competitive gaming"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+      - "Played drums in various rock and jazz bands, enjoying musical collaboration"
+      - "Developed websites, simple games, and applications, combining creativity with coding skills"
+      - "Enthusiastic supporter of Canadian sports, especially soccer, hockey, and basketball"
+#  - title: "Certificates"
+#    #list of items
+#    bullets:
+#      - "Udacity Machine Learning (2019)"
+#  - title: "Awards"
+#    bullets:
+#      - "Winner"
