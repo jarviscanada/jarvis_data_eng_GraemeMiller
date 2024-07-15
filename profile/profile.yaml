@@ -82,9 +82,7 @@ education:
     department: "Lassonde School of Engineering"
     # optional
     awards_achievements:
-#      - "Scholarship"
-#      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-#      - "GPA: 3.8/4.0"
+#    
 #  - school_name: "XYZ university"
 #    duration: "2016-2018"
 #    degree: "Master of Engineering"
