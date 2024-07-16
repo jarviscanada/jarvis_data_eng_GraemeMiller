@@ -12,41 +12,34 @@ My name is Graeme Miller, and I have an academic background in Computer Science,
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_demo](https://github.com/jarviscanada/jarvis_data_eng_demo)
+Project source code: [https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller](https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/linux_sql)]: Automates the management of system usage data for a Linux server cluster in the Jarvis Linux Cluster Administration (LCA) team using Docker, PostgreSQL, and bash scripts. This project simplifies database operations, enables the creation of tables to store hardware specifications and usage data, and utilizes crontab for automated data collection. Technologies used include Docker, PostgreSQL, and bash scripting for database setup and maintenance.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller/tree/master/linux_sql)]: Automates the management of system usage data for a Linux server cluster in the Jarvis Linux Cluster Administration (LCA) team using Docker, PostgreSQL, and bash scripts. This project simplifies database operations, enables the creation of tables to store hardware specifications and usage data, and utilizes crontab for automated data collection. Technologies used include Docker, PostgreSQL, and bash scripting for database setup and maintenance.
 
-**Core Java Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/core_java)]: The goal of this project is to create a Java application that reads through files in a specified directory and prints out lines of text matching a given regular expression (Regex) pattern. The application utilizes Maven for dependency management and packaging, and my development was done using the IntelliJ IDEA IDE. The application consists of several Java classes designed to traverse directories, read files, and log lines of text that match the specified Regex pattern. The code employs modern Java features such as lambda expressions, streams, and ArrayLists to efficiently process the data. Finally, the project is containerized using Docker to enable easy distribution and deployment.
+**Core Java Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller/tree/master/core_java)]: The goal of this project is to create a Java application that reads through files in a specified directory and prints out lines of text matching a given regular expression (Regex) pattern. The application utilizes Maven for dependency management and packaging, and my development was done using the IntelliJ IDEA IDE. The application consists of several Java classes designed to traverse directories, read files, and log lines of text that match the specified Regex pattern. The code employs modern Java features such as lambda expressions, streams, and ArrayLists to efficiently process the data. Finally, the project is containerized using Docker to enable easy distribution and deployment.
 
-**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_demo/tree/master/springboot)]: Not Started
+**Springboot App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller/tree/master/springboot)]: Not Started
 
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Yoga Teacher's Website** [[GitHub](https://github.com/gvmiller/YogaWithDeb)]: Designed and created a website hub for a yoga studio to centralize information about their online classes and social media, significantly improving the connection between students and instructors, and streamlining the registration process for future classes. The website includes small animations and is designed to be responsive, functioning well on both desktop computers and mobile devices. It features a single home page that links to four additional information pages and social media channels.
 
-**Machine Learning**: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Software Engineering Testing Project**: Tested the API tokens using Java code for user access on a webpage application. Also compared this understanding of successful security on the Yuride program using Selenium to walk through and test the login process of the program.
 
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2020-present)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Software Developer:, Jarvis (May 2024-present)**: Worked on a series of Software developer projects. Developing key skills in becoming a better professional in the industry.
 
-**Tutor, XYZ Company (2019)**: Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.
+**Full-stack Developer Intern, Andie (May 2022-Apr 2023)**: Gained experience with Mixpanel analytics, Graph CMS, SQL querying, Python, and React.js. Built webpage analytics for the company's website, providing valuable statistics on webpage activity and enabling the company to adapt their website to better link clients to their product. Developed a dashboard for the marketing team to streamline the creation of new marketing pages through a form. Collaborated with a team to develop other company webpages, improving my design skills and gaining experience in delegating work within a group. Worked on a backend scraping function to read a comma-separated list, apply filtering, and accurately input data into the company database, utilizing various basic functions for data management. Coordinated the integration of backend functions with the company's frontend CRM page, focusing on establishing the initial functionality of the CRM to provide a foundational understanding of its management capabilities for the company.
 
 
 ## Education
-**XYZ university (2012-2016)**, Bachelor of Applied Sciences, Electrical and Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
-
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**York university (2018-2023)**, Bachelor of Science in Computer Science, Lassonde School of Engineering
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- Played drums in various rock and jazz bands, enjoying musical collaboration
+- Developed websites, simple games, and applications, combining creativity with coding skills
+- Enthusiastic supporter of Canadian sports, especially soccer, hockey, and basketball
