@@ -1,0 +1,106 @@
+# Preferred name (Characters only)
+name: "Graeme Miller"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_GraemeMiller
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: My name is Graeme Miller, and I have an academic background in Computer Science, having earned my bachelor's degree from York University. During my time at university, I developed a strong foundation in various aspects of computing, which has been instrumental in my journey as a software developer. I have had the opportunity to take my academic background and apply in a working environment during my internship with Andie, which gave me insight into what it takes to be a Full Stack developer. This experience enhanced my skills in front-end and back-end development and increased my interest in working in the software industry. I am excited to continue learning and developing my skills as a software developer, particularly in building new tools and applications that serve diverse purposes. My dream, and goal is to continue growing as a developer and contribute to innovative projects that make a difference.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Javascript
+    - Python
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - SQL
+    - Linux/Bash
+    - HTML/CSS
+    - Microsoft Office Suite
+    - React.js
+  # At least 5 skills
+  familiar:
+    - Django
+    - Figma
+    - Docker
+    - MongoDB
+    - Mixpanel
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Automates the management of system usage data for a Linux server cluster in the Jarvis Linux Cluster Administration (LCA) team using Docker, PostgreSQL, and bash scripts. This project simplifies database operations, enables the creation of tables to store hardware specifications and usage data, and utilizes crontab for automated data collection. Technologies used include Docker, PostgreSQL, and bash scripting for database setup and maintenance.
+  - name: "Core Java Grep App"
+    git_url: "/core_java"
+    description: The goal of this project is to create a Java application that reads through files in a specified directory and prints out lines of text matching a given regular expression (Regex) pattern. The application utilizes Maven for dependency management and packaging, and my development was done using the IntelliJ IDEA IDE. The application consists of several Java classes designed to traverse directories, read files, and log lines of text that match the specified Regex pattern. The code employs modern Java features such as lambda expressions, streams, and ArrayLists to efficiently process the data. Finally, the project is containerized using Docker to enable easy distribution and deployment.
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Yoga Teacher's Website"
+    #URL is optional
+    git_url: "https://github.com/gvmiller/YogaWithDeb"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Designed and created a website hub for a yoga studio to centralize information about their online classes and social media, significantly improving the connection between students and instructors, and streamlining the registration process for future classes. The website includes small animations and is designed to be responsive, functioning well on both desktop computers and mobile devices. It features a single home page that links to four additional information pages and social media channels.
+  - name: "Software Engineering Testing Project"
+    git_url:
+    description: Tested the API tokens using Java code for user access on a webpage application. Also compared this understanding of successful security on the Yuride program using Selenium to walk through and test the login process of the program.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer:"
+    company: "Jarvis"
+    duration: "May 2024-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Worked on a series of Software developer projects. Developing key skills in becoming a better professional in the industry."
+  - title: "Full-stack Developer Intern"
+    company: "Andie"
+    duration: "May 2022-Apr 2023"
+    description: "Gained experience with Mixpanel analytics, Graph CMS, SQL querying, Python, and React.js. Built webpage analytics for the company's website, providing valuable statistics on webpage activity and enabling the company to adapt their website to better link clients to their product. Developed a dashboard for the marketing team to streamline the creation of new marketing pages through a form. Collaborated with a team to develop other company webpages, improving my design skills and gaining experience in delegating work within a group. Worked on a backend scraping function to read a comma-separated list, apply filtering, and accurately input data into the company database, utilizing various basic functions for data management. Coordinated the integration of backend functions with the company's frontend CRM page, focusing on establishing the initial functionality of the CRM to provide a foundational understanding of its management capabilities for the company."
+
+#List of edcuation
+education: 
+  - school_name: "York university"
+    duration: "2018-2023"
+    degree: "Bachelor of Science in Computer Science"
+    department: "Lassonde School of Engineering"
+    # optional
+    awards_achievements:
+#
+#  - school_name: "XYZ university"
+#    duration: "2016-2018"
+#    degree: "Master of Engineering"
+#    department: "Electrical and Computer Engineering"
+#    awards_achievements:
+
+#Optional section
+others:
+#    #category
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Played drums in various rock and jazz bands, enjoying musical collaboration"
+      - "Developed websites, simple games, and applications, combining creativity with coding skills"
+      - "Enthusiastic supporter of Canadian sports, especially soccer, hockey, and basketball"
+#  - title: "Certificates"
+#    #list of items
+#    bullets:
+#      - "Udacity Machine Learning (2019)"
+#  - title: "Awards"
+#    bullets:
+#      - "Winner"
